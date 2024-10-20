@@ -6,7 +6,7 @@
 	<listeners>
 		<listener class-name="utilities.ExtentReportManager"></listener>
 	</listeners>
-	
+
 	<test thread-count="5" name="Test">
 		<classes>
 			<class name="testCases.TC_001_SearchFlight_Test" />

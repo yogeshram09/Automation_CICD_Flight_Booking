@@ -56,7 +56,7 @@ public class TC_001_SearchFlight_Test extends BaseClass {
 
 			logger.info("----Clicked to search flight button----");
 
-			sr.okGotItNotification();
+			//sr.okGotItNotification();
 			Assert.assertEquals(sr.pageTtitle(), "MakeMyTrip");
 
 			logger.info("----Verified title page----");
@@ -71,6 +71,7 @@ public class TC_001_SearchFlight_Test extends BaseClass {
 		}
 
 		logger.info("*****  Finished TC_001_SearchFlight_Test ***** ");
+		
 
 	}
 

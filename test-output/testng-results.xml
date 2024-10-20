@@ -2,30 +2,30 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-04-24T04:22:45 IST" name="Suite" finished-at="2024-04-24T04:23:27 IST" duration-ms="41608">
+  <suite started-at="2024-10-20T10:40:14 IST" name="Default suite" finished-at="2024-10-20T10:41:06 IST" duration-ms="51813">
     <groups>
       <group name="regression">
-        <method signature="TC_001_SearchFlight_Test.searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@4722ef0c]" name="searchFlight" class="testCases.TC_001_SearchFlight_Test"/>
+        <method signature="TC_001_SearchFlight_Test.searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@15a34df2]" name="searchFlight" class="testCases.TC_001_SearchFlight_Test"/>
       </group> <!-- regression -->
       <group name="master">
-        <method signature="TC_001_SearchFlight_Test.searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@4722ef0c]" name="searchFlight" class="testCases.TC_001_SearchFlight_Test"/>
+        <method signature="TC_001_SearchFlight_Test.searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@15a34df2]" name="searchFlight" class="testCases.TC_001_SearchFlight_Test"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-04-24T04:22:45 IST" name="Test" finished-at="2024-04-24T04:23:27 IST" duration-ms="41608">
+    <test started-at="2024-10-20T10:40:14 IST" name="Default test" finished-at="2024-10-20T10:41:06 IST" duration-ms="51813">
       <class name="testCases.TC_001_SearchFlight_Test">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_001_SearchFlight_Test@4722ef0c]" started-at="2024-04-24T04:22:46 IST" name="setUp" finished-at="2024-04-24T04:22:58 IST" duration-ms="11371" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testCases.TC_001_SearchFlight_Test@15a34df2]" started-at="2024-10-20T10:40:14 IST" name="setUp" finished-at="2024-10-20T10:40:27 IST" duration-ms="13291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@4722ef0c]" started-at="2024-04-24T04:22:58 IST" name="searchFlight" finished-at="2024-04-24T04:23:27 IST" duration-ms="29333" status="PASS">
+        <test-method signature="searchFlight()[pri:0, instance:testCases.TC_001_SearchFlight_Test@15a34df2]" started-at="2024-10-20T10:40:27 IST" name="searchFlight" finished-at="2024-10-20T10:41:06 IST" duration-ms="38342" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchFlight -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_SearchFlight_Test@4722ef0c]" started-at="2024-04-24T04:23:27 IST" name="tearDown" finished-at="2024-04-24T04:23:27 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_SearchFlight_Test@15a34df2]" started-at="2024-10-20T10:41:06 IST" name="tearDown" finished-at="2024-10-20T10:41:06 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- testCases.TC_001_SearchFlight_Test -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

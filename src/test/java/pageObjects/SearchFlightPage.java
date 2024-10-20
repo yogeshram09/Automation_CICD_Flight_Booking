@@ -70,7 +70,7 @@ public class SearchFlightPage extends BasePage {
 	@FindBy(xpath = "//button[normalize-space()='APPLY']")
 	private WebElement applyBtn;
 
-	@FindBy(xpath = "//div[contains(text(),'Armed Forces')]")
+	@FindBy(xpath = "//div[contains(text(),'Regular')][1]")
 	private WebElement selFare;
 
 	@FindBy(xpath = "//a[normalize-space()='Search']")

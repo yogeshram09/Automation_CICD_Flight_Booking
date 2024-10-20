@@ -52,3 +52,45 @@
 04:23:26.955 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicked to search flight button----
 04:23:27.415 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Verified title page----
 04:23:27.415 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Finished TC_001_SearchFlight_Test ***** 
+10:00:55.057 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:00:59.221 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:01:05.893 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:01:09.762 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:21:09.978 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:21:14.198 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:21:19.554 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:21:23.617 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:21:24.092 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the month and year----
+10:21:26.280 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the date----
+10:30:26.250 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:30:29.560 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:30:34.891 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:30:38.712 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:30:39.305 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the month and year----
+10:30:41.292 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the date----
+10:32:39.294 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:32:42.060 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:32:48.675 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:32:52.669 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:32:53.205 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the month and year----
+10:32:54.958 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the date----
+10:32:56.742 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicking the search flight button----
+10:33:07.120 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicked to search flight button----
+10:36:19.938 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:36:23.053 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:36:29.375 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:36:33.271 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:36:33.801 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the month and year----
+10:36:35.455 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the date----
+10:36:37.434 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicking the search flight button----
+10:36:54.544 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicked to search flight button----
+10:40:27.807 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Starting TC_001_SearchFlight_Test ***** 
+10:40:30.708 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Select the flight option----
+10:40:37.084 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected from city option----
+10:40:40.963 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected To city option----
+10:40:41.521 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the month and year----
+10:40:44.055 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Selected the date----
+10:40:45.892 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicking the search flight button----
+10:41:06.089 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Clicked to search flight button----
+10:41:06.108 [main] INFO  testCases.TC_001_SearchFlight_Test - ----Verified title page----
+10:41:06.109 [main] INFO  testCases.TC_001_SearchFlight_Test - *****  Finished TC_001_SearchFlight_Test ***** 
